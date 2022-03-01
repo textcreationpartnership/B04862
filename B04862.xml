@@ -1,0 +1,138 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Proposals for obviating the frauds of appearand heirs</title>
+            <author>Scotland. Parliament. Committee for Security of the Kingdom.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1695</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B04862</idno>
+            <idno type="STC">Wing P3729A</idno>
+            <idno type="STC">ESTC R230601</idno>
+            <idno type="EEBO-CITATION">53299220</idno>
+            <idno type="OCLC">ocm 53299220</idno>
+            <idno type="VID">179958</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B04862)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 179958)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2809:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Proposals for obviating the frauds of appearand heirs</title>
+                  <author>Scotland. Parliament. Committee for Security of the Kingdom.</author>
+               </titleStmt>
+               <extent>2 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[Edinburgh? :</pubPlace>
+                  <date>1695]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Initial letter.</note>
+                  <note>Colophon: "By order of the Committee of Parliament, for security of the kingdom."</note>
+                  <note>Place and date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Reproduction of original in: National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Inheritance and succession --  Scotland --  Early works to 1800.</term>
+               <term>Debtor and creditor --  Scotland --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-06</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2011-06</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:179958:1"/>
+            <pb n="1" facs="tcp:179958:1" rendition="simple:additions"/>
+            <head>
+               <hi>PROPOSALS,</hi> For Obviating the Frauds of Appearand Heirs.</head>
+            <p>
+               <seg rend="decorInit">O</seg>Ur Soveraign Lord Conſidering, the frequent Frauds and Diſap<g ref="char:EOLhyphen"/>pointments, that Creditors do ſuffer upon the Deceaſe of their Debitors, and through the Contrivances of appearand Heirs in their prejudice; For Remeid thereof, and alſo for Facilitating the Tranſmiſsion of Heretage, in favours of both Heirs and Cre<g ref="char:EOLhyphen"/>ditors; His Majeſty with Advice and Conſent of the Eſtates of Parliament, STATUTES and ORDAINS, That if any man ſerve himſelf Heir not to his Immediat Predeceſſor, but to one remoter, as paſsing by his Father to his Goodſire, or the like; Then and in that Caſe, he ſhall be ly<g ref="char:EOLhyphen"/>able not only for the Debts and Deeds of the Perſon Interjected, to whom he might have been Served Heir, And who was in the Poſſesſion of the Lands and Eſtate to which he is Served for the ſpace of <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> years, And that in ſo far as may extend to the value of the ſaid Lands and Eſtate, and no farder: As alſo His Majeſty with Advice &amp; Conſent foreſaid, STATUTES &amp; ORDAINS, That if any Appearand Heir for hereafter ſhal without being lawfully Served or Entered Heir, either poſſeſs his Predeceſſors Eſtate, or any part thereof, or ſhall purchaſe any right thereto: or to any legal Diligence or other Right affecting the ſame, whether Redeemable, or Irredeemable, otherways than when the ſaid Eſtate is expoſed to a lawful publick Roup, and as the higheſt Offerer there<g ref="char:EOLhyphen"/>at, without any Colluſion, his foreſaid Poſſesſion or Purchaſe ſhall be repute a behaviour as Heir, and a ſufficient paſſive Title, to make him repreſent his Predeceſſor univerſally, and to be lyable for all his Debts and Deeds, ſiklike as if the ſaid appearand Heir Poſſesſing or Purchaſing as ſaid is, were lawfully Served and Entered Heir to his ſaid Predeceſſor. And farder, His Majeſty vvith Advice and Conſent foreſaid, <hi>STATUTES</hi> and <hi>ORDAINS,</hi> That for hereafter any appearand Heir ſhall have free liberty and acceſs to Enter Heir to his Pre<g ref="char:EOLhyphen"/>deceſſors, <hi>Cum beneficio Inventarii,</hi> or upon Inventary, as the uſe is in Exe<g ref="char:EOLhyphen"/>cutories and Moveables, Allovving ſtill to the ſaid appearand Heir, year and day to deliberat, In vvhich time, he may make up the foreſaid Inventary vvhich he is to give up upon Oath full and particular, as to all Lands, Houſes, Annualrents or other Heretable Rights vvhatſomever, to vvhich the ſaid appear<g ref="char:EOLhyphen"/>and Heir may or pretends to Succeed, vvhich Inventary to be Subſcribed by him before Witneſſes duely inſert &amp; deſigned, ſhal be given in to the Clerk of the Sheriff Court of the Shire, vvhere the Defuncts Lands and Heretage ly; Or incaſe the Defunct had no Lands or Heretage requiring Seaſin of the Shire, vvhere the Defunct deceaſed; To vvhich Inventary the Sheriff, or Sheriff-Deput vvith the Clerk of the Court, ſhall alſo Subſcribe in Judgement, and Record the ſame in their Regiſters, and give Extracts thereof, for all which the up giver of the ſaid Inventary, ſhal pay no more to the Court and Clerk thereof, on any account, then the ordinary Price of Extracts in that Court, for an Extract of the ſaid Inventary, and this Inventary is to be given in Recorded, and Extracted as ſaid is, within the ſaid year and day to
+<pb n="2" facs="tcp:179958:2"/>Deliberat, and thereafter the foreſaid Extract thereof ſhal within fourty days after the Expiration of the ſaid year and day be again preſented, and Regi<g ref="char:EOLhyphen"/>ſtrat in the Books of Council and Seſſion in a particular Regiſter, to be ap<g ref="char:EOLhyphen"/>pointed by the Clerk Regiſter for that Effect; and the appearand Heir En<g ref="char:EOLhyphen"/>tring by Inventary in manner foreſaid, is hereby Declared to be only lyable o his Predeceſſors Debts and Deeds, <hi>Secundum vices Inventarii,</hi> and in as far as the value of the Heretage given up in Inventary will extend, and no farder; providing always, likeas it is hereby ſpecially provided, that if the aforeſaid appearand Heir ſhal have any Intromiſſion with the Defuncts He<g ref="char:EOLhyphen"/>retable Eſtate, or any part thereof, otherways than neceſſary Intromiſſion for Cuſtody and Preſervation before his giving in, Recording, and Extracting of the ſaid Inventary in manner foreſaid; or if he ſhal Fraudfully Omit any thing out of the ſaid Inventary, that is, which yet he ſhal be found to have Intromitted with or Poſſeſſed, then and in either of theſe caſes he ſhal loſe the Benefit of the Inventary, and be Univerſally lyable as if entred Heir without Inventary: And farder, that if any part of the ſaid Heretable Eſtate ſhal be without Fraud Omitted to be given up by him, in the foreſaid Inventary, and ſhal not in the mean time be affected by the Diligence of a lawful Creditor, he ſhal have Liberty ſo ſoon as he comes to the knowledge thereof, and within <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> days thereafter, to make an Eik of the ſame to the ſaid Inventary, which Eik is to be made and Subſcribed, given in and Recorded, in the ſame manner with the Prin<g ref="char:EOLhyphen"/>cipal Inventary above-mentioned. And laſtly is <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s hereby Declared, that appearand Heirs, if they pleaſe may Enter without Inventary, as formerly in all Points, and that whether they Enter with or without Inventary, They are ſtill to Enter by Service and Retour, or by Precepts of <hi>Clare con<g ref="char:EOLhyphen"/>stat</hi> in manner formerly accuſtomed.</p>
+         </div>
+      </body>
+      <back>
+         <div type="order">
+            <p>By Order of the Committee of Parliament, for Security of the Kingdom.</p>
+            <pb facs="tcp:179958:2"/>
+         </div>
+      </back>
+   </text>
+</TEI>
